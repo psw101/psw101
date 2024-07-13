@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pulindu Sathruwan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
+
+- 💬 Ask me about **anything related Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
